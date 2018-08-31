@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.learning.spring.boot.building.BuildingControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.375 s <<< FAILURE! - in com.learning.spring.boot.building.BuildingControllerTest
+initializationError(com.learning.spring.boot.building.BuildingControllerTest)  Time elapsed: 0.009 s  <<< ERROR!
+java.lang.Exception: Method testShow() should be public
+

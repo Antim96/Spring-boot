@@ -1,0 +1,4 @@
+com\learning\spring\boot\CourseApiApp.class
+com\learning\spring\boot\building\BuildingController.class
+com\learning\spring\boot\building\Building.class
+com\learning\spring\boot\building\BuildingRepository.class
